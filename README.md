@@ -25,32 +25,29 @@ The skills and knowledge gained from this lab have equipped me with the expertis
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Modifying Users Account Policies: <br/>
+<img src="https://imgur.com/VXpPJsn.jpg" height="80%" width="80%" alt="Group Policy Managment"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Testing Account Policies:  <br/>
+<img src="https://imgur.com/5misZjv.jpg" height="80%" width="80%" alt="Account Lockout"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Creating New Share Folder: <br/>
+<img src="https://imgur.com/PHweCrf.jpg" height="80%" width="80%" alt="New Share"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Assigning User To Folder:  <br/>
+<img src="https://imgur.com/8O0XFJL.jpg" height="80%" width="80%" alt="User Assign"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Mapping Network Drive:  <br/>
+<img src="https://imgur.com/UgcAKpk.png" height="80%" width="80%" alt="Network Drive"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Remote Desktop Access:  <br/>
+<img src="https://imgur.com/sokdQ8V.png" height="80%" width="80%" alt="Remote Access"/>
 <br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
